@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 06 Oct 2025 10:23:18 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Former England rugby captain Lewis Moody reveals MND diagnosis]]></title>
+            <description><![CDATA[Former England captain Lewis Moody says in an exclusive BBC interview he has "a reluctance to look the future in the face".]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno#0</guid>
+            <pubDate>Mon, 06 Oct 2025 06:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Lewis Moody on receiving diagnosis and the 'heartbreaking' conversation with his sons]]></title>
+            <description><![CDATA[Speaking to BBC Breakfast's Sally Nugent, 2003 Rugby World Cup winner and former England captain Lewis Moody reveals that he has been diagnosed with motor neurone disease (MND).]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/videos/c3w50126393o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/videos/c3w50126393o#0</guid>
+            <pubDate>Mon, 06 Oct 2025 05:59:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75d/live/4fb16bb0-a27b-11f0-92db-77261a15b9d2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[French Prime Minister Sébastien Lecornu resigns after less than a month]]></title>
+            <description><![CDATA[The shock move comes 26 days after his appointment following the collapse of the previous government of François Bayrou.]]></description>
+            <link>https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewn9k0w9rxo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 09:56:41 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc50/live/7614dc60-a299-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nottingham attacks victim awarded George Medal for protecting friend from killer]]></title>
+            <description><![CDATA[The medical student "made the ultimate sacrifice" as she tried to defend her friend Barnaby Webber.]]></description>
+            <link>https://www.bbc.com/news/articles/cjr5xyn421yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr5xyn421yo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 09:00:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2004/live/310028d0-a29b-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conservatives pledge £5,000 tax rebate for young home buyers]]></title>
+            <description><![CDATA[Speaking at the party's conference, Shadow chancellor Mel Stride will say the proposal will be funded by cuts to public spending worth £47bn.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzv9j78dyo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 09:46:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c58/live/9b859400-a288-11f0-b5fb-09dc1426da0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The true cost of cyber attacks - and the business weak spots that allow them to happen]]></title>
+            <description><![CDATA[Are this year's major attacks the "cumulative effect of a kind of inaction on cyber security" from the government and big business?]]></description>
+            <link>https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ye8zj5l4jo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 00:52:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73cf/live/2ff5b750-a293-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EastEnders' Kellie Bright on the challenges of being parent of an autistic child]]></title>
+            <description><![CDATA[The soap actor meets families fighting for their children’s education for BBC Panorama.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jqy8pn275o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqy8pn275o#0</guid>
+            <pubDate>Mon, 06 Oct 2025 00:35:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian prosecutors appeal mushroom murderer's 'inadequate' sentence]]></title>
+            <description><![CDATA[Erin Patterson was jailed for a minimum of 33 years for murdering three people with a toxic mushroom meal.]]></description>
+            <link>https://www.bbc.com/news/articles/c07vlzn587lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07vlzn587lo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 09:00:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/901c/live/43a740b0-a285-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When fashion becomes friction: the relationship 'swag gap' debate]]></title>
+            <description><![CDATA[People on TikTok are lamenting past relationships they've described as having swag gaps - an obvious style difference.]]></description>
+            <link>https://www.bbc.com/news/articles/cr4qp4nlppko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4qp4nlppko#1</guid>
+            <pubDate>Mon, 06 Oct 2025 01:27:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f7/live/fc3d1220-a28b-11f0-928c-71dbb8619e94.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why time matters for Tory MPs deciding Kemi Badenoch's future]]></title>
+            <description><![CDATA[For many Tory MPs looking at Kemi Badenoch's leadership, they are already wondering how much more time she needs to turn around the party's fortunes.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0rnj6504yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rnj6504yo#1</guid>
+            <pubDate>Mon, 06 Oct 2025 01:21:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d89/live/b3666ea0-a20b-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Why protests have started a debate over 'Britishness']]></title>
+            <description><![CDATA[Against the backdrop of grief after the Manchester attack, there is debate about which tenets should be fundamental in our society, writes Chris Mason.]]></description>
+            <link>https://www.bbc.com/news/articles/c7840dv7n4po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7840dv7n4po#1</guid>
+            <pubDate>Mon, 06 Oct 2025 06:01:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afef/live/acb32710-a279-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is MND and are athletes more likely to be diagnosed?]]></title>
+            <description><![CDATA[BBC Sport's Ask Me Anything team look at motor neurone disease and if there is a link with the disease and athletes.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c20z7kyv2edo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c20z7kyv2edo#1</guid>
+            <pubDate>Mon, 06 Oct 2025 06:50:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf32/live/be5f8da0-a297-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC finds Russian guards, Iranian trucks and rusting railway on Trump's Caucasus peace route]]></title>
+            <description><![CDATA[The planned Trump Route in the South Caucasus could reshape the geopolitics of a region that borders Russia and Iran.]]></description>
+            <link>https://www.bbc.com/news/articles/c78nr234v5mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78nr234v5mo#1</guid>
+            <pubDate>Sun, 05 Oct 2025 23:43:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf6a/live/1991bf20-9b01-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gisèle Pelicot to face one of her rapists in court as French women fear nothing has changed]]></title>
+            <description><![CDATA[Gisèle Pelicot's dominant stance was seen as a moment in France's MeToo movement but the enthusiasm appears to be wilting. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdx2d9lynk1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdx2d9lynk1o#1</guid>
+            <pubDate>Sun, 05 Oct 2025 23:07:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea4a/live/a58cb880-a27d-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Police could get power to ban protests' and 'PM must come clean over China']]></title>
+            <description><![CDATA[Home Secretary Shabana Mahmood has said police could be allowed to ban protests outright, the Times reports. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj6x36p7001o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6x36p7001o#1</guid>
+            <pubDate>Mon, 06 Oct 2025 03:51:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0775/live/d35a6d40-a244-11f0-92db-77261a15b9d2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[House-buying shake-up plan aims to cut costs and time]]></title>
+            <description><![CDATA[Under new proposals, sellers and estate agents will have to provide key information about a property up front.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0v7zwp0dlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0v7zwp0dlo#3</guid>
+            <pubDate>Mon, 06 Oct 2025 07:46:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/488de0c0-a226-11f0-a2b9-abdd67c14f44.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple and Samsung users could be due share of £480m payout]]></title>
+            <description><![CDATA[Consumer group Which? is taking tech giant Qualcomm to the Competition Appeal Tribunal in London on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rn7rwk24o#3</guid>
+            <pubDate>Mon, 06 Oct 2025 09:04:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbe/live/c4446f00-a1e4-11f0-ab23-d127b1d8dfad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First celebrity leaves Strictly after dance-off]]></title>
+            <description><![CDATA[Two couples squared off against each other on Sunday night, leading to one pair departing the show.]]></description>
+            <link>https://www.bbc.com/news/articles/c20zeyynnrgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20zeyynnrgo#3</guid>
+            <pubDate>Sun, 05 Oct 2025 19:08:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b2/live/59b049e0-a20f-11f0-8493-b191e68f6c5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judge blocks Trump from sending troops from California to Portland ]]></title>
+            <description><![CDATA[The decision late on Sunday comes a day after the same judge barred the deployment of troops from the state of Oregon. ]]></description>
+            <link>https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c740elm70z7o#3</guid>
+            <pubDate>Mon, 06 Oct 2025 08:39:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4846/live/fcbf6450-a245-11f0-98b7-cdc4bf2f32f3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MoD spends millions on private schools to avoid Welsh language]]></title>
+            <description><![CDATA[Military personnel receive a private education allowance to avoid lessons in Welsh in state schools.]]></description>
+            <link>https://www.bbc.com/news/articles/cy852jq7v25o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy852jq7v25o#3</guid>
+            <pubDate>Mon, 06 Oct 2025 05:11:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a17/live/17b39630-a289-11f0-b5fb-09dc1426da0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nobel Prize for discovering immune  security guards]]></title>
+            <description><![CDATA[The prize-winning work explains how the immune system attacks hostile infections, but not the body's own cells.]]></description>
+            <link>https://www.bbc.com/news/articles/c2knwvpd7vno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2knwvpd7vno#3</guid>
+            <pubDate>Mon, 06 Oct 2025 10:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cavers safe after 30-hour rescue during Storm Amy]]></title>
+            <description><![CDATA[Rescue teams battled severe weather and flooding at Dowber Gill Passage in the Yorkshire Dales.]]></description>
+            <link>https://www.bbc.com/news/articles/cly6x3xvyy0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly6x3xvyy0o#3</guid>
+            <pubDate>Sun, 05 Oct 2025 20:09:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc60/live/2fa8c7e0-a227-11f0-9a8d-55d7ff06f061.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch on iPlayer: Access All Areas - When Country Comes to Town]]></title>
+            <description><![CDATA[Go behind the scenes as country music takes over the Royal Albert Hall.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002k6z4?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002k6z4#5</guid>
+            <pubDate>Thu, 02 Oct 2025 13:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m5wjh6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Will Police Use Their New Powers To Restrict Repeated Protests?]]></title>
+            <description><![CDATA[The Home Secretary announces new police powers to restrict protests.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0m6wvj2?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0m6wvj2#5</guid>
+            <pubDate>Sun, 05 Oct 2025 14:06:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will the Democrats’ shutdown gamble pay off?]]></title>
+            <description><![CDATA[Have Democrats picked the right moment to challenge Donald Trump?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct7t60?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct7t60#5</guid>
+            <pubDate>Thu, 02 Oct 2025 18:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former England captain Moody reveals MND diagnosis ]]></title>
+            <description><![CDATA[Former England captain Lewis Moody says in an exclusive BBC interview he has "a reluctance to look the future in the face".]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno#7</guid>
+            <pubDate>Mon, 06 Oct 2025 06:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The most wonderful human' - Greenwood leads support for ex-team-mate Moody]]></title>
+            <description><![CDATA[Friend and former team-mate Will Greenwood backs Lewis Moody after the ex-England captain reveals he has motor neurone disease.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c3065m9qjrzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c3065m9qjrzo#7</guid>
+            <pubDate>Mon, 06 Oct 2025 08:37:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/568a/live/a6b33950-a28c-11f0-b5fb-09dc1426da0e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Salah has become a 'little problem' for Liverpool]]></title>
+            <description><![CDATA[MOTD pundit Danny Murphy explains why Mohamed Salah's lack of defensive work has become an issue for Liverpool down their right flank.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c79vgyyx0vdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79vgyyx0vdo#7</guid>
+            <pubDate>Sun, 05 Oct 2025 22:27:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbb/live/db9b1be0-a234-11f0-928c-71dbb8619e94.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm at breaking point' - Kasatkina ends season early]]></title>
+            <description><![CDATA[World number 19 Daria Kasatkina says the schedule is "too much, mentally and emotionally".]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cx2rzp8er8eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx2rzp8er8eo#7</guid>
+            <pubDate>Mon, 06 Oct 2025 07:42:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c413/live/47fd7b70-a285-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Martin's excruciating Rangers era finally at a chaotic conclusion']]></title>
+            <description><![CDATA[BBC Sport Scotland's chief sportswriter Tom English charts the downfall of Russell Martin at Rangers.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c93053rr56wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93053rr56wo#7</guid>
+            <pubDate>Sun, 05 Oct 2025 23:17:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9933/live/02af8be0-a239-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch Moody's extended interview on MND diagnosis]]></title>
+            <description><![CDATA[Former England rugby captain Lewis Moody discusses his Motor Neurone Disease diagnosis]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002kt68?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002kt68#7</guid>
+            <pubDate>Mon, 06 Oct 2025 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m6zy1k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Play now]]></title>
+            <description><![CDATA[Think you can work out where's hotter and colder than you today? Find out by playing our game]]></description>
+            <link>https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cwy5r7xwq8xo#8</guid>
+            <pubDate>Mon, 06 Oct 2025 04:56:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+    </channel>
+</rss>
