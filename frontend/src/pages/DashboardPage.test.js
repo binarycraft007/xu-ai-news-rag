@@ -8,8 +8,8 @@ import * as api from '../services/api';
 jest.mock('../services/api');
 
 const mockDocuments = [
-  { id: 1, source: 'test.pdf' },
-  { id: 2, source: 'another.txt' },
+  { id: 1, source: 'test.pdf', uploaded_at: '2023-10-27T10:00:00Z' },
+  { id: 2, source: 'another.txt', uploaded_at: '2023-10-28T11:00:00Z' },
 ];
 
 const mockFeeds = [
@@ -51,8 +51,8 @@ describe('DashboardPage', () => {
 
     // Check that the initial data is fetched and displayed
     await waitFor(() => {
-      expect(screen.getByText('test.pdf')).toBeInTheDocument();
-      expect(screen.getByText('another.txt')).toBeInTheDocument();
+      expect(screen.getByText(/test.pdf/)).toBeInTheDocument();
+      expect(screen.getByText(/another.txt/)).toBeInTheDocument();
       expect(screen.getByText('http://example.com/rss.xml')).toBeInTheDocument();
     });
   });
